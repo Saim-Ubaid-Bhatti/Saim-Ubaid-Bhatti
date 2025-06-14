@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ubaid</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="A description" align="right">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="A description" align="right" width="150">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-ubaid-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="saim-ubaid-bhatti" /> </p>
 
