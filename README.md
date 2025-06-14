@@ -3,20 +3,25 @@
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="A description" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-ubaid-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="saim-ubaid-bhatti" /> </p>
+- 🔭 I’m currently working **Multiple Projects**
 
-- 🌱 I’m currently learning **.net Technologies**
+- 🌱 I’m currently learning **Microsoft Technologies**
+
+- 👯 I’m looking to collaborate **Real Time Projects**
+
+- 🤝 I’m looking for help **.Net**
 
 - 💬 Ask me about **React,.Net , SQL**
 
 - 📫 How to reach me **saimubaid222@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ubaid-bhatti-01174a162/](https://www.linkedin.com/in/ubaid-bhatti-01174a162/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ubaid-bhatti-01174a162/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BO0wGHciFQOKzgcoje0psIQ%3D%3D](https://www.linkedin.com/in/ubaid-bhatti-01174a162/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BO0wGHciFQOKzgcoje0psIQ%3D%3D)
 
 - ⚡ Fun fact **Possitive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ubaid-bhatti-01174a162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ubaid-bhatti-01174a162/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ubaid-bhatti-01174a162/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b2srvykhft5qmvl68xbp3va%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ubaid-bhatti-01174a162/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b2srvykhft5qmvl68xbp3va%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saim-ubaid-bhatti&show_icons=true&locale=en" alt="saim-ubaid-bhatti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saim-ubaid-bhatti&" alt="saim-ubaid-bhatti" /></p>
+
